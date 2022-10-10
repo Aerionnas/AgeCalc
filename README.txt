@@ -4,7 +4,7 @@ Description: This is an age calculator that calculates how many days old you are
 
 Languages used: Java
 
-For this project, I used to files: AgeCalc.java and TextIO.java.
+For this project, I used two files: AgeCalc.java and TextIO.java.
 
 AgeCalc.java- The user is asked for their name and age. Then, they take the user's
 age and turns it to days.
